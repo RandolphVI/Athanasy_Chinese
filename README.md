@@ -1,14 +1,6 @@
 # Athanasy 简体中文汉化补丁
 
-为 Steam 游戏 **[Athanasy](https://store.steampowered.com/app/1769320/Athanasy/)** 制作的简体中文本地化补丁。
-
-## 安装方法
-
-1. **下载** 前往 [Releases](../../releases) 页面，下载最新版本的 `Athanasy_Chinese.zip`
-2. **找到** 游戏安装目录（Steam 库 → 右键 Athanasy → 管理 → 浏览本地文件）
-   - 通常路径为：`...\Steam\steamapps\common\Athanasy\`
-3. **解压** 将 zip 内容直接解压到游戏根目录（即 `Athanasy\` 文件夹），选择覆盖已有文件
-4. **启动游戏** → 进入 **Settings（设置）** → 点击右下角的语言切换按钮，切换至中文
+为 Steam 游戏 **[Athanasy](https://store.steampowered.com/app/1769320/Athanasy/)** 制作的简体中文本地化补丁。当前版本：**V1.0**
 
 ## 补丁内容
 
@@ -18,6 +10,18 @@
 - 成就标题与描述翻译
 - 中文菜单按钮图片
 - 中文字体支持（Noto Sans SC）
+
+## 安装方法
+
+1. **下载** 前往 [Releases](../../releases) 页面，下载最新版本的 `Athanasy_Chinese.zip`
+2. **找到** 游戏安装目录（Steam 库 → 右键 Athanasy → 管理 → 浏览本地文件）
+   - 通常路径为：`...\Steam\steamapps\common\Athanasy\`
+3. **解压** 将 zip 内容直接解压到游戏根目录（即 `Athanasy\` 文件夹），选择覆盖已有文件
+4. **启动游戏** → 进入 **Settings（设置）** → 点击右下角的语言切换按钮，切换至中文
+
+## 卸载方法
+
+在 Steam 中右键 Athanasy → 属性 → 已安装文件 → **验证游戏文件完整性**，即可还原所有被修改的文件。
 
 ## 注意事项
 
@@ -39,10 +43,6 @@ game/
     ├── code/text/                   # 剧情对话翻译（20个文件）
     └── images/                      # 中文菜单按钮图片
 ```
-
-## 版本
-
-- **V1.0** — 首个完整版本
 
 ## 许可
 
